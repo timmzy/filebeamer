@@ -1,0 +1,6 @@
+{"docs":"['doc','docx','log','rtf','tex','txt','pdf','epub']",
+  "audio":"['aif','m4a','mid','mp3','mpa','wav','ogg','wma']",
+  "video":"['3gp','avi','flv','m4v','mov','mp4','mpg','swf','vob','wmv','mkv','webm']",
+  "image":"['bmp','gif','jpg','png','psd','tga','tif','tiff']",
+  "app":"['exe','bat','wsf']",
+  "com":"['zip','7z','rar','gz','tar','cab']"}
